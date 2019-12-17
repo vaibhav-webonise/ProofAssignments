@@ -18,7 +18,7 @@ Dependencies:
 
 Prerequisites:
 
-1. Gradle build automation tool
+1. `Gradle build automation tool`
 
 Installation: `To run this app follow given steps,`
 
